@@ -14,3 +14,5 @@ lines 132:
  result = result.replaceAll("(?i)rmi","r_m_i");
  ```
 **use (?i) because ${JnDi or ${JNDi etc.. will cause injection the same as ${jndi.**
+
+![image](https://user-images.githubusercontent.com/20860589/145752756-e9d7511f-bc4e-442d-8920-14ac216dbc00.png)
