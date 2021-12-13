@@ -13,4 +13,4 @@ lines 132:
  result = result.replaceAll("(?i)ldap","l_d_a_p");
  result = result.replaceAll("(?i)rmi","r_m_i");
  ```
-** use (?i) because ${JnDi or ${JNDi etc.. will cause injection the same as ${jndi.**
+**use (?i) because ${JnDi or ${JNDi etc.. will cause injection the same as ${jndi.**
